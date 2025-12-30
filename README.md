@@ -35,11 +35,13 @@ The goal of this challenge is to:
 └── README.md        # This file
 ```
 
-Each day's folder will contain:
+Each day's folder will contain (once solutions are added):
 - Solution file(s) in your preferred language(s)
 - README.md with problem details and explanation
 
 ## 📊 Progress Tracking
+
+*Update this table as you complete each day's challenge*
 
 | Day | Problem | Difficulty | Status |
 |-----|---------|------------|--------|
