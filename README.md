@@ -29,29 +29,31 @@ The goal of this challenge is to:
 ├── Day-01/          # Day 1 solutions
 ├── Day-02/          # Day 2 solutions
 ├── Day-03/          # Day 3 solutions
+├── Day-04/          # Day 4 solutions
+├── Day-05/          # Day 5 solutions
+├── Day-06/          # Day 6 solutions
 ...
 ├── Day-99/          # Day 99 solutions
 ├── Day-100/         # Day 100 solutions
 └── README.md        # This file
 ```
 
-Each day's folder will contain (once solutions are added):
+Each day's folder contains:
 - Solution file(s) in your preferred language(s)
 - README.md with problem details and explanation
 
 ## 📊 Progress Tracking
 
-*Update this table as you complete each day's challenge*
-
-| Day | Problem | Difficulty | Status |
-|-----|---------|------------|--------|
-| 01  | TBD     | -          | ⬜ Not Started |
-| 02  | TBD     | -          | ⬜ Not Started |
-| 03  | TBD     | -          | ⬜ Not Started |
-| 04  | TBD     | -          | ⬜ Not Started |
-| 05  | TBD     | -          | ⬜ Not Started |
-| ... | ...     | ...        | ...    |
-| 100 | TBD     | -          | ⬜ Not Started |
+| Day | Problem(s) | Difficulty | Status |
+|-----|------------|------------|--------|
+| 01  | Two Sum; Contains Duplicate | Easy; Easy | ✅ Completed |
+| 02  | Maximum Subarray; Range Sum Query – Immutable | Easy; Easy | ✅ Completed |
+| 03  | Longest Substring Without Repeating Characters; Valid Palindrome | Medium; Easy | ✅ Completed |
+| 04  | Reverse Linked List; Merge Two Sorted Lists | Easy; Easy | ✅ Completed |
+| 05  | Linked List Cycle; Middle of the Linked List | Easy; Easy | ✅ Completed |
+| 06  | Valid Parentheses; Min Stack | Easy; Medium | ✅ Completed |
+| ... | ... | ... | ... |
+| 100 | TBD | - | ⬜ Not Started |
 
 **Legend:**
 - ⬜ Not Started
@@ -61,11 +63,11 @@ Each day's folder will contain (once solutions are added):
 
 ## 📈 Statistics
 
-- **Days Completed**: 0/100
-- **Easy Problems**: 0
-- **Medium Problems**: 0
+- **Days Completed**: 6/100
+- **Easy Problems**: 10
+- **Medium Problems**: 2
 - **Hard Problems**: 0
-- **Total Problems Solved**: 0
+- **Total Problems Solved**: 12
 
 ## 🎯 Goals
 
@@ -89,13 +91,3 @@ This is a personal challenge repository, but feel free to:
 - Share your own approach to problems
 
 ## 📝 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Start Date**: TBD  
-**Current Streak**: 0 days  
-**Last Updated**: TBD
-
-*"The expert in anything was once a beginner."* - Helen Hayes
