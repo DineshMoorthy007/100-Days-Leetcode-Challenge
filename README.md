@@ -52,6 +52,9 @@ Each day's folder contains:
 | 04  | Reverse Linked List; Merge Two Sorted Lists | Easy; Easy | ✅ Completed |
 | 05  | Linked List Cycle; Middle of the Linked List | Easy; Easy | ✅ Completed |
 | 06  | Valid Parentheses; Min Stack | Easy; Medium | ✅ Completed |
+| 07  | Daily Temperatures; Next Greater Element I | Medium; Easy | ✅ Completed |
+| 08  | Binary Search; Search Insert Position | Easy; Easy | ✅ Completed |
+| 09  | Search in Rotated Sorted Array; Find First and Last Position of Element | Medium; Medium | ✅ Completed |
 | ... | ... | ... | ... |
 | 100 | TBD | - | ⬜ Not Started |
 
@@ -63,11 +66,11 @@ Each day's folder contains:
 
 ## 📈 Statistics
 
-- **Days Completed**: 6/100
-- **Easy Problems**: 10
-- **Medium Problems**: 2
+- **Days Completed**: 9/100
+- **Easy Problems**: 13
+- **Medium Problems**: 5
 - **Hard Problems**: 0
-- **Total Problems Solved**: 12
+- **Total Problems Solved**: 18
 
 ## 🎯 Goals
 
