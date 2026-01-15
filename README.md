@@ -55,6 +55,10 @@ Each day's folder contains:
 | 07  | Daily Temperatures; Next Greater Element I | Medium; Easy | ✅ Completed |
 | 08  | Binary Search; Search Insert Position | Easy; Easy | ✅ Completed |
 | 09  | Search in Rotated Sorted Array; Find First and Last Position of Element | Medium; Medium | ✅ Completed |
+| 10  | Koko Eating Bananas; Capacity To Ship Packages Within D Days | Medium; Medium | ✅ Completed |
+| 11  | Maximum Depth of Binary Tree; Invert Binary Tree | Easy; Easy | ✅ Completed |
+| 12  | Binary Tree Inorder Traversal; Binary Tree Preorder Traversal | Easy; Easy | ✅ Completed |
+| 13  | Binary Tree Postorder Traversal; Binary Tree Level Order Traversal | Easy; Medium | ✅ Completed |
 | ... | ... | ... | ... |
 | 100 | TBD | - | ⬜ Not Started |
 
@@ -66,11 +70,11 @@ Each day's folder contains:
 
 ## 📈 Statistics
 
-- **Days Completed**: 9/100
-- **Easy Problems**: 13
-- **Medium Problems**: 5
+- **Days Completed**: 13/100
+- **Easy Problems**: 18
+- **Medium Problems**: 8
 - **Hard Problems**: 0
-- **Total Problems Solved**: 18
+- **Total Problems Solved**: 26
 
 ## 🎯 Goals
 
