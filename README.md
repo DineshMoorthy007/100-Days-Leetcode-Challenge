@@ -59,6 +59,11 @@ Each day's folder contains:
 | 11  | Maximum Depth of Binary Tree; Invert Binary Tree | Easy; Easy | ✅ Completed |
 | 12  | Binary Tree Inorder Traversal; Binary Tree Preorder Traversal | Easy; Easy | ✅ Completed |
 | 13  | Binary Tree Postorder Traversal; Binary Tree Level Order Traversal | Easy; Medium | ✅ Completed |
+| 14  | Diameter of Binary Tree; Balanced Binary Tree | Easy; Easy | ✅ Completed |
+| 15  | Path Sum; Binary Tree Paths | Easy; Easy | ✅ Completed |
+| 16  | Lowest Common Ancestor of a Binary Tree; Lowest Common Ancestor of a Binary Search Tree | Medium; Medium | ✅ Completed |
+| 17  | Number of Islands; Flood Fill | Medium; Easy | ✅ Completed |
+| 18  | Clone Graph; Keys and Rooms | Medium; Medium | ✅ Completed |
 | ... | ... | ... | ... |
 | 100 | TBD | - | ⬜ Not Started |
 
@@ -70,11 +75,21 @@ Each day's folder contains:
 
 ## 📈 Statistics
 
-- **Days Completed**: 13/100
-- **Easy Problems**: 18
-- **Medium Problems**: 8
+- **Days Completed**: 18/100
+- **Easy Problems**: 23
+- **Medium Problems**: 13
 - **Hard Problems**: 0
-- **Total Problems Solved**: 26
+- **Total Problems Solved**: 36
+
+## 🏷️ Topics Covered
+
+- **Arrays & Hashing** (Days 1-2)
+- **Two Pointers & Sliding Window** (Day 3)
+- **Linked Lists** (Days 4-5)
+- **Stacks & Queues** (Days 6-7)
+- **Binary Search** (Days 8-10)
+- **Binary Trees** (Days 11-16)
+- **Graphs** (Days 17-18)
 
 ## 🎯 Goals
 
@@ -83,6 +98,13 @@ Each day's folder contains:
 - [ ] Master common algorithms (Sorting, Searching, Dynamic Programming, etc.)
 - [ ] Solve at least 20 Hard problems
 - [ ] Improve time complexity awareness
+
+### Milestones
+- [x] 🎉 Complete first 10 days
+- [x] 🎉 Solve 25+ problems
+- [ ] 🎯 Reach 50 days
+- [ ] 🎯 Solve 100+ problems
+- [ ] 🎯 Complete the 100-day challenge!
 
 ## 💡 Learning Resources
 
