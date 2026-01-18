@@ -76,8 +76,8 @@ Each day's folder contains:
 ## 📈 Statistics
 
 - **Days Completed**: 18/100
-- **Easy Problems**: 22
-- **Medium Problems**: 14
+- **Easy Problems**: 23
+- **Medium Problems**: 13
 - **Hard Problems**: 0
 - **Total Problems Solved**: 36
 
