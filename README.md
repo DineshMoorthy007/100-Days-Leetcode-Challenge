@@ -69,7 +69,6 @@ Each day's folder contains:
 
 **Legend:**
 - ⬜ Not Started
-- 🟡 In Progress
 - ✅ Completed
 - 🔄 Revisited/Optimized
 
@@ -120,3 +119,4 @@ This is a personal challenge repository, but feel free to:
 - Share your own approach to problems
 
 ## 📝 License
+- This challenged is licensed under MIT
