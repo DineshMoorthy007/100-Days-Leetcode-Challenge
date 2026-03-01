@@ -64,6 +64,12 @@ Each day's folder contains:
 | 16  | Lowest Common Ancestor of a Binary Tree; Lowest Common Ancestor of a Binary Search Tree | Medium; Medium | ✅ Completed |
 | 17  | Number of Islands; Flood Fill | Medium; Easy | ✅ Completed |
 | 18  | Clone Graph; Keys and Rooms | Medium; Medium | ✅ Completed |
+| 19  | Course Schedule; Course Schedule II | Medium; Medium | ✅ Completed |
+| 20  | Number of Provinces; Redundant Connection | Medium; Medium | ✅ Completed |
+| 21  | Climbing Stairs; Min Cost Climbing Stairs | Easy; Easy | ✅ Completed |
+| 22  | House Robber; House Robber II | Medium; Medium | ✅ Completed |
+| 23  | Unique Paths; Unique Paths II | Medium; Medium | ✅ Completed |
+| 24  | Minimum Path Sum; Triangle | Medium; Medium | ✅ Completed |
 | ... | ... | ... | ... |
 | 100 | TBD | - | ⬜ Not Started |
 
@@ -74,11 +80,11 @@ Each day's folder contains:
 
 ## 📈 Statistics
 
-- **Days Completed**: 18/100
-- **Easy Problems**: 23
-- **Medium Problems**: 13
+- **Days Completed**: 24/100
+- **Easy Problems**: 25
+- **Medium Problems**: 23
 - **Hard Problems**: 0
-- **Total Problems Solved**: 36
+- **Total Problems Solved**: 48
 
 ## 🏷️ Topics Covered
 
@@ -88,7 +94,8 @@ Each day's folder contains:
 - **Stacks & Queues** (Days 6-7)
 - **Binary Search** (Days 8-10)
 - **Binary Trees** (Days 11-16)
-- **Graphs** (Days 17-18)
+- **Graphs** (Days 17-20)
+- **Dynamic Programming** (Days 21-24)
 
 ## 🎯 Goals
 
