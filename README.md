@@ -71,6 +71,7 @@ Each day's folder contains:
 | 23  | Unique Paths; Unique Paths II | Medium; Medium | Completed |
 | 24  | Minimum Path Sum; Triangle | Medium; Medium | Completed |
 | 25  | Longest Common Subsequence; Delete Operation for Two Strings | Medium; Medium | Completed |
+| 26  | Edit Distance; Longest Palindromic Subsequence | Medium; Medium | Completed |
 | ... | ... | ... | ... |
 | 100 | TBD | - | Not Started |
 
@@ -81,11 +82,11 @@ Each day's folder contains:
 
 ## Statistics
 
-- **Days Completed**: 25/100
+- **Days Completed**: 26/100
 - **Easy Problems**: 25
-- **Medium Problems**: 25
+- **Medium Problems**: 27
 - **Hard Problems**: 0
-- **Total Problems Solved**: 50
+- **Total Problems Solved**: 52
 
 ## Topics Covered
 
@@ -97,7 +98,7 @@ Each day's folder contains:
 - **Binary Trees** (Days 11-16)
 - **Graphs** (Days 17-20)
 - **Dynamic Programming** (Days 21-24)
-- **String Dynamic Programming** (Day 25)
+- **String Dynamic Programming** (Days 25-26)
 
 ## Goals
 
@@ -110,6 +111,7 @@ Each day's folder contains:
 ### Milestones
 - [x] Complete first 10 days
 - [x] Solve 25+ problems
+- [x] Solve 50+ problems
 - [ ] Reach 50 days
 - [ ] Solve 100+ problems
 - [ ] Complete the 100-day challenge!
