@@ -76,7 +76,8 @@ Each day's folder contains:
 | 25 | Longest Common Subsequence; Delete Operation for Two Strings | Medium; Medium | Completed |
 | 26 | Edit Distance; Longest Palindromic Subsequence | Medium; Medium | Completed |
 | 27 | Partition Equal Subset Sum; Target Sum | Medium; Medium | Completed |
-| 28–99 | — | — | Not Started |
+| 28 | Coin Change; Coin Change II | Medium; Medium | Completed |
+| 29–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -93,11 +94,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 27 / 100 |
+| Days Completed | 28 / 100 |
 | Easy Problems | 25 |
-| Medium Problems | 29 |
+| Medium Problems | 31 |
 | Hard Problems | 0 |
-| Total Problems Solved | 54 |
+| Total Problems Solved | 56 |
 
 ---
 
@@ -115,6 +116,7 @@ Each day's folder contains:
 | Dynamic Programming (1D & 2D) | Days 21–24 |
 | String Dynamic Programming | Days 25–26 |
 | Knapsack & Subset Sum DP | Day 27 |
+| Unbounded Knapsack DP | Day 28 |
 
 ---
 
