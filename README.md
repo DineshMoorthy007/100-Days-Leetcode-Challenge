@@ -78,7 +78,9 @@ Each day's folder contains:
 | 27 | Partition Equal Subset Sum; Target Sum | Medium; Medium | Completed |
 | 28 | Coin Change; Coin Change II | Medium; Medium | Completed |
 | 29 | Non-overlapping Intervals; Assign Cookies | Medium; Easy | Completed |
-| 30–99 | — | — | Not Started |
+| 30 | Jump Game; Jump Game II | Medium; Medium | Completed |
+| 31 | Kth Largest Element in an Array; Top K Frequent Elements | Medium; Medium | Completed |
+| 32–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -95,11 +97,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 29 / 100 |
+| Days Completed | 31 / 100 |
 | Easy Problems | 26 |
-| Medium Problems | 32 |
+| Medium Problems | 36 |
 | Hard Problems | 0 |
-| Total Problems Solved | 58 |
+| Total Problems Solved | 62 |
 
 ---
 
@@ -118,7 +120,8 @@ Each day's folder contains:
 | String Dynamic Programming | Days 25–26 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
-| Greedy Algorithms | Day 29 |
+| Greedy Algorithms | Days 29–30 |
+| Heaps / Priority Queue | Day 31 |
 
 ---
 
