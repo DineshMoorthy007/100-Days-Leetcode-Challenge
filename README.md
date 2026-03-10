@@ -80,7 +80,8 @@ Each day's folder contains:
 | 29 | Non-overlapping Intervals; Assign Cookies | Medium; Easy | Completed |
 | 30 | Jump Game; Jump Game II | Medium; Medium | Completed |
 | 31 | Kth Largest Element in an Array; Top K Frequent Elements | Medium; Medium | Completed |
-| 32–99 | — | — | Not Started |
+| 32 | Last Stone Weight; Task Scheduler | Easy; Medium | Completed |
+| 33–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -97,11 +98,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 31 / 100 |
-| Easy Problems | 26 |
-| Medium Problems | 36 |
+| Days Completed | 32 / 100 |
+| Easy Problems | 27 |
+| Medium Problems | 37 |
 | Hard Problems | 0 |
-| Total Problems Solved | 62 |
+| Total Problems Solved | 64 |
 
 ---
 
@@ -121,7 +122,7 @@ Each day's folder contains:
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30 |
-| Heaps / Priority Queue | Day 31 |
+| Heaps / Priority Queue | Days 31–32 |
 
 ---
 
