@@ -81,7 +81,8 @@ Each day's folder contains:
 | 30 | Jump Game; Jump Game II | Medium; Medium | Completed |
 | 31 | Kth Largest Element in an Array; Top K Frequent Elements | Medium; Medium | Completed |
 | 32 | Last Stone Weight; Task Scheduler | Easy; Medium | Completed |
-| 33–99 | — | — | Not Started |
+| 33 | Implement Trie (Prefix Tree); Design Add and Search Words Data Structure | Medium; Medium | Completed |
+| 34–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -98,11 +99,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 32 / 100 |
+| Days Completed | 33 / 100 |
 | Easy Problems | 27 |
-| Medium Problems | 37 |
+| Medium Problems | 39 |
 | Hard Problems | 0 |
-| Total Problems Solved | 64 |
+| Total Problems Solved | 66 |
 
 ---
 
@@ -123,6 +124,7 @@ Each day's folder contains:
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30 |
 | Heaps / Priority Queue | Days 31–32 |
+| Tries | Day 33 |
 
 ---
 
