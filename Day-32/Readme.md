@@ -1,4 +1,4 @@
-# Day 33 – Heap + Greedy Scheduling
+# Day 32 – Heap + Greedy Scheduling
 
 ## Problems Solved
 1. Task Scheduler
@@ -16,4 +16,5 @@ Heaps allow efficient scheduling by always selecting the highest priority task.
 Understanding cooldown scheduling logic.
 
 ## Language
+
 Python
