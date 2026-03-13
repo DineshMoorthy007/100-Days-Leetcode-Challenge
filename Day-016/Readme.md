@@ -1,4 +1,4 @@
-# Day 16 – Lowest Common Ancestor (Trees)
+# Day 16 - Lowest Common Ancestor (Trees)
 
 ## Problems Solved
 1. Lowest Common Ancestor of a Binary Tree

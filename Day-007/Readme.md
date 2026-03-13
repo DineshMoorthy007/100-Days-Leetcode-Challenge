@@ -1,4 +1,4 @@
-# Day 7 – Monotonic Stack
+# Day 7 - Monotonic Stack
 
 ## Problems Solved
 1. Daily Temperatures

@@ -1,4 +1,4 @@
-# Day 31 – Heaps / Priority Queue
+# Day 31 - Heaps / Priority Queue
 
 ## Problems Solved
 1. Kth Largest Element in an Array

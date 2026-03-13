@@ -1,4 +1,4 @@
-# Day 33 – Trie (Prefix Tree)
+# Day 33 - Trie (Prefix Tree)
 
 ## Problems Solved
 1. Implement Trie (Prefix Tree)

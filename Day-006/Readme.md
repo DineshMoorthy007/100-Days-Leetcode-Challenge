@@ -1,4 +1,4 @@
-# Day 6 – Stack Fundamentals
+# Day 6 - Stack Fundamentals
 
 ## Problems Solved
 1. Valid Parentheses

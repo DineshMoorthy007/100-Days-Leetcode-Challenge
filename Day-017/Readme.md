@@ -1,4 +1,4 @@
-# Day 17 – Graph Basics (DFS & BFS)
+# Day 17 - Graph Basics (DFS & BFS)
 
 ## Problems Solved
 1. Number of Islands

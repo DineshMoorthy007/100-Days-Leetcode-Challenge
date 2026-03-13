@@ -1,4 +1,4 @@
-# Day 24 – 2D Dynamic Programming (Minimization)
+# Day 24 - 2D Dynamic Programming (Minimization)
 
 ## Problems Solved
 1. Minimum Path Sum

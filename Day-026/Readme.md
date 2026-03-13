@@ -1,4 +1,4 @@
-# Day 26 – Advanced String Dynamic Programming
+# Day 26 - Advanced String Dynamic Programming
 
 ## Problems Solved
 1. Edit Distance

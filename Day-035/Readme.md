@@ -1,4 +1,4 @@
-# Day 35 – Backtracking (Permutations & Combination Sum)
+# Day 35 - Backtracking (Permutations & Combination Sum)
 
 ## Problems Solved
 1. Permutations

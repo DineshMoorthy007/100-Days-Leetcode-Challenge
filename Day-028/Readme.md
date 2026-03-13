@@ -1,4 +1,4 @@
-# Day 28 – Coin Change (Unbounded Knapsack)
+# Day 28 - Coin Change (Unbounded Knapsack)
 
 ## Problems Solved
 1. Coin Change

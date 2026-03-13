@@ -1,4 +1,4 @@
-# Day 8 – Binary Search Basics
+# Day 8 - Binary Search Basics
 
 ## Problems Solved
 1. Binary Search

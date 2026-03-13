@@ -1,4 +1,4 @@
-# Day 34 – Backtracking (Subsets & Combinations)
+# Day 34 - Backtracking (Subsets & Combinations)
 
 ## Problems Solved
 1. Subsets

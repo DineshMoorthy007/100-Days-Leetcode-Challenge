@@ -1,4 +1,4 @@
-# Day 27 – Knapsack and Subset Sum Dynamic Programming
+# Day 27 - Knapsack and Subset Sum Dynamic Programming
 
 ## Problems Solved
 

@@ -1,4 +1,4 @@
-# Day 20 – Union Find (Disjoint Set)
+# Day 20 - Union Find (Disjoint Set)
 
 ## Problems Solved
 1. Number of Provinces

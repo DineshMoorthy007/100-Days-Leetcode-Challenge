@@ -1,4 +1,4 @@
-# Day 23 – Dynamic Programming on Grids
+# Day 23 - Dynamic Programming on Grids
 
 ## Problems Solved
 1. Unique Paths

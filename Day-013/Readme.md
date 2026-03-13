@@ -1,4 +1,4 @@
-# Day 13 – Postorder & Level Order Traversals
+# Day 13 - Postorder & Level Order Traversals
 
 ## Problems Solved
 1. Binary Tree Postorder Traversal

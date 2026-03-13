@@ -1,4 +1,4 @@
-# Day 22 – Dynamic Programming (House Robber)
+# Day 22 - Dynamic Programming (House Robber)
 
 ## Problems Solved
 1. House Robber

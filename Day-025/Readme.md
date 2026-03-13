@@ -1,4 +1,4 @@
-# Day 25 – String Dynamic Programming (LCS)
+# Day 25 - String Dynamic Programming (LCS)
 
 ## Problems Solved
 1. Longest Common Subsequence

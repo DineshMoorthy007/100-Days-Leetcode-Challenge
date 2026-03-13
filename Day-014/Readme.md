@@ -1,4 +1,4 @@
-# Day 14 – Tree Properties (Diameter & Balance)
+# Day 14 - Tree Properties (Diameter & Balance)
 
 ## Problems Solved
 1. Diameter of Binary Tree

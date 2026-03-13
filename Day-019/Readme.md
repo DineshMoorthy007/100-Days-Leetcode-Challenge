@@ -1,4 +1,4 @@
-# Day 19 – Topological Sort & Dependencies
+# Day 19 - Topological Sort & Dependencies
 
 ## Problems Solved
 1. Course Schedule

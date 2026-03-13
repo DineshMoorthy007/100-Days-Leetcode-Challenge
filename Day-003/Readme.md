@@ -1,4 +1,4 @@
-# Day 3 – Sliding Window & Two Pointers
+# Day 3 - Sliding Window & Two Pointers
 
 ## Problems Solved
 1. Longest Substring Without Repeating Characters

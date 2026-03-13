@@ -1,4 +1,4 @@
-# Day 5 – Fast & Slow Pointers (Linked List)
+# Day 5 - Fast & Slow Pointers (Linked List)
 
 ## Problems Solved
 1. Linked List Cycle

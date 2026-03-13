@@ -1,4 +1,4 @@
-# Day 32 – Heap + Greedy Scheduling
+# Day 32 - Heap + Greedy Scheduling
 
 ## Problems Solved
 1. Task Scheduler

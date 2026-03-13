@@ -1,4 +1,4 @@
-# Day 10 – Binary Search on Answers
+# Day 10 - Binary Search on Answers
 
 ## Problems Solved
 1. Koko Eating Bananas

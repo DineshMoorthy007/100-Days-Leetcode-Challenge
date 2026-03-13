@@ -1,4 +1,4 @@
-# Day 9 – Advanced Binary Search
+# Day 9 - Advanced Binary Search
 
 ## Problems Solved
 1. Search in Rotated Sorted Array

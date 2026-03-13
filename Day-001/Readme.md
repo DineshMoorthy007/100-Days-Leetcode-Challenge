@@ -1,4 +1,4 @@
-# Day 1 – Arrays & Hashing
+# Day 1 - Arrays & Hashing
 
 ## Problems Solved
 1. Two Sum

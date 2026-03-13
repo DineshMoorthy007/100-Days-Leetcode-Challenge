@@ -1,4 +1,4 @@
-# Day 15 – Tree Path Problems
+# Day 15 - Tree Path Problems
 
 ## Problems Solved
 1. Path Sum

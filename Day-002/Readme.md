@@ -1,4 +1,4 @@
-# Day 2 – Prefix Sum & Maximum Subarray
+# Day 2 - Prefix Sum & Maximum Subarray
 
 ## Problems Solved
 1. Maximum Subarray

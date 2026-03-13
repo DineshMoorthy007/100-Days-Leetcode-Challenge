@@ -1,4 +1,4 @@
-# Day 21 – Dynamic Programming Basics
+# Day 21 - Dynamic Programming Basics
 
 ## Problems Solved
 1. Climbing Stairs

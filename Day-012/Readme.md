@@ -1,4 +1,4 @@
-# Day 12 – Tree Traversals (DFS)
+# Day 12 - Tree Traversals (DFS)
 
 ## Problems Solved
 1. Binary Tree Inorder Traversal

@@ -1,4 +1,4 @@
-# Day 11 – Binary Tree Basics (DFS)
+# Day 11 - Binary Tree Basics (DFS)
 
 ## Problems Solved
 1. Maximum Depth of Binary Tree

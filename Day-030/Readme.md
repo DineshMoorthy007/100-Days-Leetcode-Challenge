@@ -1,4 +1,4 @@
-# Day 30 – Greedy Algorithms (Jump Game)
+# Day 30 - Greedy Algorithms (Jump Game)
 
 ## Problems Solved
 1. Jump Game

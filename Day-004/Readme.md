@@ -1,4 +1,4 @@
-# Day 4 – Linked Lists Basics
+# Day 4 - Linked Lists Basics
 
 ## Problems Solved
 1. Reverse Linked List

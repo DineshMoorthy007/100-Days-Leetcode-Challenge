@@ -1,4 +1,4 @@
-# Day 29 – Greedy Algorithms
+# Day 29 - Greedy Algorithms
 
 ## Problems Solved
 1. Non-overlapping Intervals
