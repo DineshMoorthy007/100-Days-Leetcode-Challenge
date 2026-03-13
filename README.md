@@ -31,10 +31,10 @@ A structured, day-by-day approach to solving LeetCode problems over 100 consecut
 
 ```
 100-Days-Leetcode-Challenge/
-├── Day-01/          # Day 1 solutions
-├── Day-02/          # Day 2 solutions
+├── Day-001/         # Day 1 solutions
+├── Day-002/         # Day 2 solutions
 ├── ...
-├── Day-99/          # Day 99 solutions
+├── Day-099/         # Day 99 solutions
 ├── Day-100/         # Day 100 solutions
 └── README.md        # This file
 ```
@@ -83,7 +83,8 @@ Each day's folder contains:
 | 32 | Last Stone Weight; Task Scheduler | Easy; Medium | Completed |
 | 33 | Implement Trie (Prefix Tree); Design Add and Search Words Data Structure | Medium; Medium | Completed |
 | 34 | Subsets; Combinations | Medium; Medium | Completed |
-| 35–99 | — | — | Not Started |
+| 35 | Permutations; Combination Sum | Medium; Medium | Completed |
+| 36–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -100,11 +101,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 34 / 100 |
+| Days Completed | 35 / 100 |
 | Easy Problems | 27 |
-| Medium Problems | 41 |
+| Medium Problems | 43 |
 | Hard Problems | 0 |
-| Total Problems Solved | 68 |
+| Total Problems Solved | 70 |
 
 ---
 
@@ -126,7 +127,7 @@ Each day's folder contains:
 | Greedy Algorithms | Days 29–30 |
 | Heaps / Priority Queue | Days 31–32 |
 | Tries | Day 33 |
-| Backtracking | Day 34 |
+| Backtracking | Days 34–35 |
 
 ---
 
