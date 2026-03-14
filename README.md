@@ -84,7 +84,8 @@ Each day's folder contains:
 | 33 | Implement Trie (Prefix Tree); Design Add and Search Words Data Structure | Medium; Medium | Completed |
 | 34 | Subsets; Combinations | Medium; Medium | Completed |
 | 35 | Permutations; Combination Sum | Medium; Medium | Completed |
-| 36–99 | — | — | Not Started |
+| 36 | N Queens; Word Search | Hard; Medium | Completed |
+| 37–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -101,11 +102,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 35 / 100 |
+| Days Completed | 36 / 100 |
 | Easy Problems | 27 |
-| Medium Problems | 43 |
-| Hard Problems | 0 |
-| Total Problems Solved | 70 |
+| Medium Problems | 44 |
+| Hard Problems | 1 |
+| Total Problems Solved | 72 |
 
 ---
 
@@ -127,7 +128,7 @@ Each day's folder contains:
 | Greedy Algorithms | Days 29–30 |
 | Heaps / Priority Queue | Days 31–32 |
 | Tries | Day 33 |
-| Backtracking | Days 34–35 |
+| Backtracking | Days 34–36 |
 
 ---
 
