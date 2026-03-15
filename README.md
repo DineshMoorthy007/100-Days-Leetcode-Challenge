@@ -85,7 +85,8 @@ Each day's folder contains:
 | 34 | Subsets; Combinations | Medium; Medium | Completed |
 | 35 | Permutations; Combination Sum | Medium; Medium | Completed |
 | 36 | N Queens; Word Search | Hard; Medium | Completed |
-| 37–99 | — | — | Not Started |
+| 37 | Single Number; Counting Bits | Easy; Easy | Completed |
+| 38–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -102,11 +103,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 36 / 100 |
-| Easy Problems | 27 |
+| Days Completed | 37 / 100 |
+| Easy Problems | 29 |
 | Medium Problems | 44 |
 | Hard Problems | 1 |
-| Total Problems Solved | 72 |
+| Total Problems Solved | 74 |
 
 ---
 
@@ -129,6 +130,7 @@ Each day's folder contains:
 | Heaps / Priority Queue | Days 31–32 |
 | Tries | Day 33 |
 | Backtracking | Days 34–36 |
+| Bit Manipulation | Day 37 |
 
 ---
 
