@@ -87,7 +87,9 @@ Each day's folder contains:
 | 36 | N Queens; Word Search | Hard; Medium | Completed |
 | 37 | Single Number; Counting Bits | Easy; Easy | Completed |
 | 38 | Missing Number; Reverse Bits | Easy; Easy | Completed |
-| 39–99 | — | — | Not Started |
+| 39 | Power of Two; Happy Number | Easy; Easy | Completed |
+| 40 | Longest Repeating Character Replacement; Permutation in String | Medium; Medium | Completed |
+| 41–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -104,11 +106,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 38 / 100 |
-| Easy Problems | 31 |
-| Medium Problems | 44 |
+| Days Completed | 40 / 100 |
+| Easy Problems | 33 |
+| Medium Problems | 46 |
 | Hard Problems | 1 |
-| Total Problems Solved | 76 |
+| Total Problems Solved | 80 |
 
 ---
 
@@ -117,7 +119,7 @@ Each day's folder contains:
 | Topic | Days |
 |-------|------|
 | Arrays & Hashing | Days 1–2 |
-| Two Pointers & Sliding Window | Day 3 |
+| Two Pointers & Sliding Window | Days 3, 40 |
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7 |
 | Binary Search | Days 8–10 |
@@ -132,6 +134,7 @@ Each day's folder contains:
 | Tries | Day 33 |
 | Backtracking | Days 34–36 |
 | Bit Manipulation | Days 37–38 |
+| Math & Number Theory | Day 39 |
 
 ---
 
