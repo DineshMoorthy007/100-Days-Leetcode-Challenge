@@ -89,7 +89,8 @@ Each day's folder contains:
 | 38 | Missing Number; Reverse Bits | Easy; Easy | Completed |
 | 39 | Power of Two; Happy Number | Easy; Easy | Completed |
 | 40 | Longest Repeating Character Replacement; Permutation in String | Medium; Medium | Completed |
-| 41–99 | — | — | Not Started |
+| 41 | Gas Station; Majority Element | Medium; Easy | Completed |
+| 42–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -106,11 +107,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 40 / 100 |
-| Easy Problems | 33 |
-| Medium Problems | 46 |
+| Days Completed | 41 / 100 |
+| Easy Problems | 34 |
+| Medium Problems | 47 |
 | Hard Problems | 1 |
-| Total Problems Solved | 80 |
+| Total Problems Solved | 82 |
 
 ---
 
@@ -129,7 +130,7 @@ Each day's folder contains:
 | String Dynamic Programming | Days 25–26 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
-| Greedy Algorithms | Days 29–30 |
+| Greedy Algorithms | Days 29–30, 41 |
 | Heaps / Priority Queue | Days 31–32 |
 | Tries | Day 33 |
 | Backtracking | Days 34–36 |
