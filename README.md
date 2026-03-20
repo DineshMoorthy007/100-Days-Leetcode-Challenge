@@ -90,7 +90,8 @@ Each day's folder contains:
 | 39 | Power of Two; Happy Number | Easy; Easy | Completed |
 | 40 | Longest Repeating Character Replacement; Permutation in String | Medium; Medium | Completed |
 | 41 | Gas Station; Majority Element | Medium; Easy | Completed |
-| 42–99 | — | — | Not Started |
+| 42 | Minimum Window Substring; Find All Anagrams in a String | Hard; Medium | Completed |
+| 43–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -107,11 +108,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 41 / 100 |
+| Days Completed | 42 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 47 |
-| Hard Problems | 1 |
-| Total Problems Solved | 82 |
+| Medium Problems | 48 |
+| Hard Problems | 2 |
+| Total Problems Solved | 84 |
 
 ---
 
@@ -120,7 +121,7 @@ Each day's folder contains:
 | Topic | Days |
 |-------|------|
 | Arrays & Hashing | Days 1–2 |
-| Two Pointers & Sliding Window | Days 3, 40 |
+| Two Pointers & Sliding Window | Days 3, 40, 42 |
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7 |
 | Binary Search | Days 8–10 |
