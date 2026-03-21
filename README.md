@@ -91,7 +91,8 @@ Each day's folder contains:
 | 40 | Longest Repeating Character Replacement; Permutation in String | Medium; Medium | Completed |
 | 41 | Gas Station; Majority Element | Medium; Easy | Completed |
 | 42 | Minimum Window Substring; Find All Anagrams in a String | Hard; Medium | Completed |
-| 43–99 | — | — | Not Started |
+| 43 | Next Greater Element II; Online Stock Span | Medium; Medium | Completed |
+| 44–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -108,11 +109,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 42 / 100 |
+| Days Completed | 43 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 48 |
+| Medium Problems | 50 |
 | Hard Problems | 2 |
-| Total Problems Solved | 84 |
+| Total Problems Solved | 86 |
 
 ---
 
@@ -137,6 +138,7 @@ Each day's folder contains:
 | Backtracking | Days 34–36 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
+| Monotonic Stack | Day 43 |
 
 ---
 
