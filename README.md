@@ -92,7 +92,8 @@ Each day's folder contains:
 | 41 | Gas Station; Majority Element | Medium; Easy | Completed |
 | 42 | Minimum Window Substring; Find All Anagrams in a String | Hard; Medium | Completed |
 | 43 | Next Greater Element II; Online Stock Span | Medium; Medium | Completed |
-| 44–99 | — | — | Not Started |
+| 44 | Largest Rectangle in Histogram; Trapping Rain Water | Hard; Hard | Completed |
+| 45–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -109,11 +110,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 43 / 100 |
+| Days Completed | 44 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 50 |
-| Hard Problems | 2 |
-| Total Problems Solved | 86 |
+| Hard Problems | 4 |
+| Total Problems Solved | 88 |
 
 ---
 
@@ -138,7 +139,7 @@ Each day's folder contains:
 | Backtracking | Days 34–36 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
-| Monotonic Stack | Day 43 |
+| Monotonic Stack | Days 43–44 |
 
 ---
 
