@@ -93,7 +93,8 @@ Each day's folder contains:
 | 42 | Minimum Window Substring; Find All Anagrams in a String | Hard; Medium | Completed |
 | 43 | Next Greater Element II; Online Stock Span | Medium; Medium | Completed |
 | 44 | Largest Rectangle in Histogram; Trapping Rain Water | Hard; Hard | Completed |
-| 45–99 | — | — | Not Started |
+| 45 | Evaluate Reverse Polish Notation; Decode String | Medium; Medium | Completed |
+| 46–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -110,11 +111,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 44 / 100 |
+| Days Completed | 45 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 50 |
+| Medium Problems | 52 |
 | Hard Problems | 4 |
-| Total Problems Solved | 88 |
+| Total Problems Solved | 90 |
 
 ---
 
@@ -125,7 +126,7 @@ Each day's folder contains:
 | Arrays & Hashing | Days 1–2 |
 | Two Pointers & Sliding Window | Days 3, 40, 42 |
 | Linked Lists | Days 4–5 |
-| Stacks & Queues | Days 6–7 |
+| Stacks & Queues | Days 6–7, 45 |
 | Binary Search | Days 8–10 |
 | Binary Trees | Days 11–16 |
 | Graphs | Days 17–20 |
