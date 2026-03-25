@@ -95,7 +95,8 @@ Each day's folder contains:
 | 44 | Largest Rectangle in Histogram; Trapping Rain Water | Hard; Hard | Completed |
 | 45 | Evaluate Reverse Polish Notation; Decode String | Medium; Medium | Completed |
 | 46 | Minimum Remove to Make Valid Parentheses; Remove Invalid Parentheses | Medium; Hard | Completed |
-| 47–99 | — | — | Not Started |
+| 47 | Split Array Largest Sum; Minimum Number of Days to Make Bouquets | Hard; Medium | Completed |
+| 48–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -112,11 +113,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 46 / 100 |
+| Days Completed | 47 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 53 |
-| Hard Problems | 5 |
-| Total Problems Solved | 92 |
+| Medium Problems | 54 |
+| Hard Problems | 6 |
+| Total Problems Solved | 94 |
 
 ---
 
@@ -128,7 +129,7 @@ Each day's folder contains:
 | Two Pointers & Sliding Window | Days 3, 40, 42 |
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7, 45–46 |
-| Binary Search | Days 8–10 |
+| Binary Search | Days 8–10, 47 |
 | Binary Trees | Days 11–16 |
 | Graphs | Days 17–20 |
 | Dynamic Programming (1D & 2D) | Days 21–24 |
