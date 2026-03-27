@@ -96,7 +96,9 @@ Each day's folder contains:
 | 45 | Evaluate Reverse Polish Notation; Decode String | Medium; Medium | Completed |
 | 46 | Minimum Remove to Make Valid Parentheses; Remove Invalid Parentheses | Medium; Hard | Completed |
 | 47 | Split Array Largest Sum; Minimum Number of Days to Make Bouquets | Hard; Medium | Completed |
-| 48–99 | — | — | Not Started |
+| 48 | Magnetic Force Between Two Balls; Find Smallest Divisor Given Threshold | Medium; Medium | Completed |
+| 49 | Maximum Candies Allocated to K Children; Maximum Value at a Given Index in a Bounded Array | Medium; Medium | Completed |
+| 50–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -113,11 +115,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 47 / 100 |
+| Days Completed | 49 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 54 |
+| Medium Problems | 58 |
 | Hard Problems | 6 |
-| Total Problems Solved | 94 |
+| Total Problems Solved | 98 |
 
 ---
 
@@ -129,14 +131,14 @@ Each day's folder contains:
 | Two Pointers & Sliding Window | Days 3, 40, 42 |
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7, 45–46 |
-| Binary Search | Days 8–10, 47 |
+| Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
 | Graphs | Days 17–20 |
 | Dynamic Programming (1D & 2D) | Days 21–24 |
 | String Dynamic Programming | Days 25–26 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
-| Greedy Algorithms | Days 29–30, 41 |
+| Greedy Algorithms | Days 29–30, 41, 49 |
 | Heaps / Priority Queue | Days 31–32 |
 | Tries | Day 33 |
 | Backtracking | Days 34–36 |
