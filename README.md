@@ -98,7 +98,8 @@ Each day's folder contains:
 | 47 | Split Array Largest Sum; Minimum Number of Days to Make Bouquets | Hard; Medium | Completed |
 | 48 | Magnetic Force Between Two Balls; Find Smallest Divisor Given Threshold | Medium; Medium | Completed |
 | 49 | Maximum Candies Allocated to K Children; Maximum Value at a Given Index in a Bounded Array | Medium; Medium | Completed |
-| 50–99 | — | — | Not Started |
+| 50 | Subarray Sum Equals K; Find Median from Data Stream | Medium; Hard | Completed |
+| 51–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -115,11 +116,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 49 / 100 |
+| Days Completed | 50 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 58 |
-| Hard Problems | 6 |
-| Total Problems Solved | 98 |
+| Medium Problems | 59 |
+| Hard Problems | 7 |
+| Total Problems Solved | 100 |
 
 ---
 
@@ -127,7 +128,7 @@ Each day's folder contains:
 
 | Topic | Days |
 |-------|------|
-| Arrays & Hashing | Days 1–2 |
+| Arrays & Hashing | Days 1–2, 50 |
 | Two Pointers & Sliding Window | Days 3, 40, 42 |
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7, 45–46 |
@@ -139,7 +140,7 @@ Each day's folder contains:
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49 |
-| Heaps / Priority Queue | Days 31–32 |
+| Heaps / Priority Queue | Days 31–32, 50 |
 | Tries | Day 33 |
 | Backtracking | Days 34–36 |
 | Bit Manipulation | Days 37–38 |
@@ -163,7 +164,7 @@ Each day's folder contains:
 | Complete first 10 days | Achieved |
 | Solve 25+ problems | Achieved |
 | Solve 50+ problems | Achieved |
-| Reach 50 days | Pending |
+| Reach 50 days | Achieved |
 | Solve 100+ problems | Pending |
 | Complete the 100-day challenge | Pending |
 
