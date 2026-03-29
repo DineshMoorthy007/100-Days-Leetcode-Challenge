@@ -99,7 +99,8 @@ Each day's folder contains:
 | 48 | Magnetic Force Between Two Balls; Find Smallest Divisor Given Threshold | Medium; Medium | Completed |
 | 49 | Maximum Candies Allocated to K Children; Maximum Value at a Given Index in a Bounded Array | Medium; Medium | Completed |
 | 50 | Subarray Sum Equals K; Find Median from Data Stream | Medium; Hard | Completed |
-| 51–99 | — | — | Not Started |
+| 51 | Longest Consecutive Sequence; Sliding Window Maximum | Medium; Hard | Completed |
+| 52–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -116,11 +117,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 50 / 100 |
+| Days Completed | 51 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 59 |
-| Hard Problems | 7 |
-| Total Problems Solved | 100 |
+| Medium Problems | 60 |
+| Hard Problems | 8 |
+| Total Problems Solved | 102 |
 
 ---
 
@@ -128,7 +129,7 @@ Each day's folder contains:
 
 | Topic | Days |
 |-------|------|
-| Arrays & Hashing | Days 1–2, 50 |
+| Arrays & Hashing | Days 1–2, 50–51 |
 | Two Pointers & Sliding Window | Days 3, 40, 42 |
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7, 45–46 |
@@ -145,7 +146,7 @@ Each day's folder contains:
 | Backtracking | Days 34–36 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
-| Monotonic Stack | Days 43–44 |
+| Monotonic Stack | Days 43–44, 51 |
 
 ---
 
