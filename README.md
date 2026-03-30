@@ -100,7 +100,8 @@ Each day's folder contains:
 | 49 | Maximum Candies Allocated to K Children; Maximum Value at a Given Index in a Bounded Array | Medium; Medium | Completed |
 | 50 | Subarray Sum Equals K; Find Median from Data Stream | Medium; Hard | Completed |
 | 51 | Longest Consecutive Sequence; Sliding Window Maximum | Medium; Hard | Completed |
-| 52–99 | — | — | Not Started |
+| 52 | Maximum Product Subarray; Rotting Oranges | Medium; Medium | Completed |
+| 53–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -117,11 +118,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 51 / 100 |
+| Days Completed | 52 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 60 |
+| Medium Problems | 62 |
 | Hard Problems | 8 |
-| Total Problems Solved | 102 |
+| Total Problems Solved | 104 |
 
 ---
 
@@ -135,8 +136,8 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20 |
-| Dynamic Programming (1D & 2D) | Days 21–24 |
+| Graphs | Days 17–20, 52 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52 |
 | String Dynamic Programming | Days 25–26 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
@@ -166,7 +167,7 @@ Each day's folder contains:
 | Solve 25+ problems | Achieved |
 | Solve 50+ problems | Achieved |
 | Reach 50 days | Achieved |
-| Solve 100+ problems | Pending |
+| Solve 100+ problems | Achieved |
 | Complete the 100-day challenge | Pending |
 
 ---
