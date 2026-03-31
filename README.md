@@ -101,7 +101,8 @@ Each day's folder contains:
 | 50 | Subarray Sum Equals K; Find Median from Data Stream | Medium; Hard | Completed |
 | 51 | Longest Consecutive Sequence; Sliding Window Maximum | Medium; Hard | Completed |
 | 52 | Maximum Product Subarray; Rotting Oranges | Medium; Medium | Completed |
-| 53–99 | — | — | Not Started |
+| 53 | Network Delay Time; Palindromic Substrings | Medium; Medium | Completed |
+| 54–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -118,11 +119,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 52 / 100 |
+| Days Completed | 53 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 62 |
+| Medium Problems | 64 |
 | Hard Problems | 8 |
-| Total Problems Solved | 104 |
+| Total Problems Solved | 106 |
 
 ---
 
@@ -136,9 +137,9 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20, 52 |
+| Graphs | Days 17–20, 52–53 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52 |
-| String Dynamic Programming | Days 25–26 |
+| String Dynamic Programming | Days 25–26, 53 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49 |
