@@ -141,7 +141,7 @@ Each day's folder contains:
 | Binary Trees | Days 11–16 |
 | Graphs | Days 17–20, 52–55 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52 |
-| String Dynamic Programming | Days 25–26, 53–54 |
+| String Dynamic Programming | Days 25–26, 53–55 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49 |
