@@ -103,7 +103,7 @@ Each day's folder contains:
 | 52 | Maximum Product Subarray; Rotting Oranges | Medium; Medium | Completed |
 | 53 | Network Delay Time; Palindromic Substrings | Medium; Medium | Completed |
 | 54 | Path With Minimum Effort; Palindrome Partitioning II | Medium; Hard | Completed |
-| 55 | Cheapest Flights Within K Stops; Word Break II | Medium; Medium | Completed |
+| 55 | Cheapest Flights Within K Stops; Word Break II | Medium; Hard | Completed |
 | 56–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
@@ -123,8 +123,8 @@ Each day's folder contains:
 |--------|------:|
 | Days Completed | 55 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 67 |
-| Hard Problems | 9 |
+| Medium Problems | 66 |
+| Hard Problems | 10 |
 | Total Problems Solved | 110 |
 
 ---
@@ -147,7 +147,7 @@ Each day's folder contains:
 | Greedy Algorithms | Days 29–30, 41, 49 |
 | Heaps / Priority Queue | Days 31–32, 50 |
 | Tries | Day 33 |
-| Backtracking | Days 34–36 |
+| Backtracking | Days 34–36, 55 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
 | Monotonic Stack | Days 43–44, 51 |
