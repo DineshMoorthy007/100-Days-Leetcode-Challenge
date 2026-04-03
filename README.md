@@ -104,7 +104,8 @@ Each day's folder contains:
 | 53 | Network Delay Time; Palindromic Substrings | Medium; Medium | Completed |
 | 54 | Path With Minimum Effort; Palindrome Partitioning II | Medium; Hard | Completed |
 | 55 | Cheapest Flights Within K Stops; Word Break II | Medium; Hard | Completed |
-| 56–99 | — | — | Not Started |
+| 56 | Min Cost to Connect All Points; Distinct Subsequences | Medium; Hard | Completed |
+| 57–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -121,11 +122,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 55 / 100 |
+| Days Completed | 56 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 66 |
-| Hard Problems | 10 |
-| Total Problems Solved | 110 |
+| Medium Problems | 67 |
+| Hard Problems | 11 |
+| Total Problems Solved | 112 |
 
 ---
 
@@ -139,9 +140,9 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20, 52–55 |
+| Graphs | Days 17–20, 52–56 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52 |
-| String Dynamic Programming | Days 25–26, 53–55 |
+| String Dynamic Programming | Days 25–26, 53–56 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49 |
