@@ -105,7 +105,8 @@ Each day's folder contains:
 | 54 | Path With Minimum Effort; Palindrome Partitioning II | Medium; Hard | Completed |
 | 55 | Cheapest Flights Within K Stops; Word Break II | Medium; Hard | Completed |
 | 56 | Min Cost to Connect All Points; Distinct Subsequences | Medium; Hard | Completed |
-| 57–99 | — | — | Not Started |
+| 57 | Swim in Rising Water; Burst Balloons | Medium; Hard | Completed |
+| 58–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -122,11 +123,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 56 / 100 |
+| Days Completed | 57 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 67 |
-| Hard Problems | 11 |
-| Total Problems Solved | 112 |
+| Medium Problems | 68 |
+| Hard Problems | 12 |
+| Total Problems Solved | 114 |
 
 ---
 
@@ -140,7 +141,7 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20, 52–56 |
+| Graphs | Days 17–20, 52–57 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52 |
 | String Dynamic Programming | Days 25–26, 53–56 |
 | Knapsack & Subset Sum DP | Day 27 |
@@ -152,6 +153,7 @@ Each day's folder contains:
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
 | Monotonic Stack | Days 43–44, 51 |
+| Interval DP | Day 57 |
 
 ---
 
