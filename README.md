@@ -106,7 +106,8 @@ Each day's folder contains:
 | 55 | Cheapest Flights Within K Stops; Word Break II | Medium; Hard | Completed |
 | 56 | Min Cost to Connect All Points; Distinct Subsequences | Medium; Hard | Completed |
 | 57 | Swim in Rising Water; Burst Balloons | Medium; Hard | Completed |
-| 58–99 | — | — | Not Started |
+| 58 | Number of Operations to Make Network Connected; Longest Increasing Subsequence | Medium; Medium | Completed |
+| 59–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -123,11 +124,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 57 / 100 |
+| Days Completed | 58 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 68 |
+| Medium Problems | 70 |
 | Hard Problems | 12 |
-| Total Problems Solved | 114 |
+| Total Problems Solved | 116 |
 
 ---
 
@@ -141,8 +142,8 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20, 52–57 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52 |
+| Graphs | Days 17–20, 52–58 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58 |
 | String Dynamic Programming | Days 25–26, 53–56 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
@@ -154,6 +155,7 @@ Each day's folder contains:
 | Math & Number Theory | Day 39 |
 | Monotonic Stack | Days 43–44, 51 |
 | Interval DP | Day 57 |
+| Union Find | Days 20, 58 |
 
 ---
 
