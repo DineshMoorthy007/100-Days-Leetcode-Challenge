@@ -108,7 +108,8 @@ Each day's folder contains:
 | 57 | Swim in Rising Water; Burst Balloons | Medium; Hard | Completed |
 | 58 | Number of Operations to Make Network Connected; Longest Increasing Subsequence | Medium; Medium | Completed |
 | 59 | Find Eventual Safe States; Maximum Sum of 3 Non-Overlapping Subarrays | Medium; Hard | Completed |
-| 60–99 | — | — | Not Started |
+| 60 | Trapping Rain Water II; Interleaving String | Hard; Medium | Completed |
+| 61–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -125,11 +126,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 59 / 100 |
+| Days Completed | 60 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 71 |
-| Hard Problems | 13 |
-| Total Problems Solved | 118 |
+| Medium Problems | 72 |
+| Hard Problems | 14 |
+| Total Problems Solved | 120 |
 
 ---
 
@@ -143,13 +144,13 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20, 52–59 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–59 |
+| Graphs | Days 17–20, 52–60 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60 |
 | String Dynamic Programming | Days 25–26, 53–56 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49 |
-| Heaps / Priority Queue | Days 31–32, 50 |
+| Heaps / Priority Queue | Days 31–32, 50, 60 |
 | Tries | Day 33 |
 | Backtracking | Days 34–36, 55 |
 | Bit Manipulation | Days 37–38 |
