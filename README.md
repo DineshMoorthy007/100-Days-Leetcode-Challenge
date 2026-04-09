@@ -110,7 +110,8 @@ Each day's folder contains:
 | 59 | Find Eventual Safe States; Maximum Sum of 3 Non-Overlapping Subarrays | Medium; Hard | Completed |
 | 60 | Trapping Rain Water II; Interleaving String | Hard; Medium | Completed |
 | 61 | Regular Expression Matching; Shortest Path in Binary Matrix | Hard; Medium | Completed |
-| 62–99 | — | — | Not Started |
+| 62 | Minimum Cost For Tickets; 01 Matrix | Medium; Medium | Completed |
+| 63–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -127,11 +128,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 61 / 100 |
+| Days Completed | 62 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 73 |
+| Medium Problems | 75 |
 | Hard Problems | 15 |
-| Total Problems Solved | 122 |
+| Total Problems Solved | 124 |
 
 ---
 
@@ -145,8 +146,8 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20, 52–61 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60 |
+| Graphs | Days 17–20, 52–62 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62 |
 | String Dynamic Programming | Days 25–26, 53–56, 61 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
