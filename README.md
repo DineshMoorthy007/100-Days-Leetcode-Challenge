@@ -111,7 +111,8 @@ Each day's folder contains:
 | 60 | Trapping Rain Water II; Interleaving String | Hard; Medium | Completed |
 | 61 | Regular Expression Matching; Shortest Path in Binary Matrix | Hard; Medium | Completed |
 | 62 | Minimum Cost For Tickets; 01 Matrix | Medium; Medium | Completed |
-| 63–99 | — | — | Not Started |
+| 63 | Word Break; Path With Maximum Probability | Medium; Medium | Completed |
+| 64–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -128,11 +129,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 62 / 100 |
+| Days Completed | 63 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 75 |
+| Medium Problems | 77 |
 | Hard Problems | 15 |
-| Total Problems Solved | 124 |
+| Total Problems Solved | 126 |
 
 ---
 
@@ -146,9 +147,9 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20, 52–62 |
+| Graphs | Days 17–20, 52–63 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62 |
-| String Dynamic Programming | Days 25–26, 53–56, 61 |
+| String Dynamic Programming | Days 25–26, 53–56, 61, 63 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49 |
