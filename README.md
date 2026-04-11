@@ -112,7 +112,8 @@ Each day's folder contains:
 | 61 | Regular Expression Matching; Shortest Path in Binary Matrix | Hard; Medium | Completed |
 | 62 | Minimum Cost For Tickets; 01 Matrix | Medium; Medium | Completed |
 | 63 | Word Break; Path With Maximum Probability | Medium; Medium | Completed |
-| 64–99 | — | — | Not Started |
+| 64 | Minimum Score Triangulation of Polygon; As Far from Land as Possible | Medium; Medium | Completed |
+| 65–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -129,11 +130,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 63 / 100 |
+| Days Completed | 64 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 77 |
+| Medium Problems | 79 |
 | Hard Problems | 15 |
-| Total Problems Solved | 126 |
+| Total Problems Solved | 128 |
 
 ---
 
@@ -147,7 +148,7 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20, 52–63 |
+| Graphs | Days 17–20, 52–64 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63 |
 | Knapsack & Subset Sum DP | Day 27 |
@@ -159,7 +160,7 @@ Each day's folder contains:
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
 | Monotonic Stack | Days 43–44, 51 |
-| Interval DP | Day 57 |
+| Interval DP | Days 57, 64 |
 | Union Find | Days 20, 58 |
 
 ---
