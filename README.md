@@ -114,7 +114,8 @@ Each day's folder contains:
 | 63 | Word Break; Path With Maximum Probability | Medium; Medium | Completed |
 | 64 | Minimum Score Triangulation of Polygon; As Far from Land as Possible | Medium; Medium | Completed |
 | 65 | Best Time to Buy and Sell Stock IV; Shortest Path Visiting All Nodes | Medium; Hard | Completed |
-| 66–99 | — | — | Not Started |
+| 66 | Maximal Rectangle; Open the Lock | Hard; Medium | Completed |
+| 67–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -131,11 +132,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 65 / 100 |
+| Days Completed | 66 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 80 |
-| Hard Problems | 16 |
-| Total Problems Solved | 130 |
+| Medium Problems | 81 |
+| Hard Problems | 17 |
+| Total Problems Solved | 132 |
 
 ---
 
@@ -149,8 +150,8 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16 |
-| Graphs | Days 17–20, 52–65 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65 |
+| Graphs | Days 17–20, 52–66 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–66 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
