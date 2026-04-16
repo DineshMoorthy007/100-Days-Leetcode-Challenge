@@ -117,7 +117,8 @@ Each day's folder contains:
 | 66 | Maximal Rectangle; Open the Lock | Hard; Medium | Completed |
 | 67 | Numbers At Most N Given Digit Set; Minimum Cost to Make at Least One Valid Path in a Grid | Hard; Hard | Completed |
 | 68 | Minimum Cost to Merge Stones; Binary Tree Maximum Path Sum | Hard; Hard | Completed |
-| 69–99 | — | — | Not Started |
+| 69 | Smallest Sufficient Team; Closest Subsequence Sum | Hard; Hard | Completed |
+| 70–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -134,11 +135,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 68 / 100 |
+| Days Completed | 69 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 81 |
-| Hard Problems | 21 |
-| Total Problems Solved | 136 |
+| Hard Problems | 23 |
+| Total Problems Solved | 138 |
 
 ---
 
@@ -166,6 +167,8 @@ Each day's folder contains:
 | Monotonic Stack | Days 43–44, 51 |
 | Interval DP | Days 57, 64, 68 |
 | Union Find | Days 20, 58 |
+| Bitmask DP | Day 69 |
+| Meet in the Middle | Day 69 |
 
 ---
 
