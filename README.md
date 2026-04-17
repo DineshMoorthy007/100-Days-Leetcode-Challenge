@@ -118,7 +118,8 @@ Each day's folder contains:
 | 67 | Numbers At Most N Given Digit Set; Minimum Cost to Make at Least One Valid Path in a Grid | Hard; Hard | Completed |
 | 68 | Minimum Cost to Merge Stones; Binary Tree Maximum Path Sum | Hard; Hard | Completed |
 | 69 | Smallest Sufficient Team; Closest Subsequence Sum | Hard; Hard | Completed |
-| 70–99 | — | — | Not Started |
+| 70 | Wildcard Matching; Minimum Reverse Operations | Hard; Hard | Completed |
+| 71–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -135,11 +136,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 69 / 100 |
+| Days Completed | 70 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 81 |
-| Hard Problems | 23 |
-| Total Problems Solved | 138 |
+| Hard Problems | 25 |
+| Total Problems Solved | 140 |
 
 ---
 
@@ -153,9 +154,9 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16, 68 |
-| Graphs | Days 17–20, 52–67 |
+| Graphs | Days 17–20, 52–67, 70 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68 |
-| String Dynamic Programming | Days 25–26, 53–56, 61, 63 |
+| String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49 |
