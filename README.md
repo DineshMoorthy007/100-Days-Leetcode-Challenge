@@ -119,7 +119,8 @@ Each day's folder contains:
 | 68 | Minimum Cost to Merge Stones; Binary Tree Maximum Path Sum | Hard; Hard | Completed |
 | 69 | Smallest Sufficient Team; Closest Subsequence Sum | Hard; Hard | Completed |
 | 70 | Wildcard Matching; Minimum Reverse Operations | Hard; Hard | Completed |
-| 71–99 | — | — | Not Started |
+| 71 | Palindrome Partitioning III; Candy | Hard; Hard | Completed |
+| 72–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -136,11 +137,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 70 / 100 |
+| Days Completed | 71 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 81 |
-| Hard Problems | 25 |
-| Total Problems Solved | 140 |
+| Hard Problems | 27 |
+| Total Problems Solved | 142 |
 
 ---
 
@@ -156,10 +157,10 @@ Each day's folder contains:
 | Binary Trees | Days 11–16, 68 |
 | Graphs | Days 17–20, 52–67, 70 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68 |
-| String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70 |
+| String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–71 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
-| Greedy Algorithms | Days 29–30, 41, 49 |
+| Greedy Algorithms | Days 29–30, 41, 49, 71 |
 | Heaps / Priority Queue | Days 31–32, 50, 60 |
 | Tries | Day 33 |
 | Backtracking | Days 34–36, 55 |
