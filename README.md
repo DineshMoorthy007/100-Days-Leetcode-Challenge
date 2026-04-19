@@ -120,7 +120,8 @@ Each day's folder contains:
 | 69 | Smallest Sufficient Team; Closest Subsequence Sum | Hard; Hard | Completed |
 | 70 | Wildcard Matching; Minimum Reverse Operations | Hard; Hard | Completed |
 | 71 | Palindrome Partitioning III; Candy | Hard; Hard | Completed |
-| 72–99 | — | — | Not Started |
+| 72 | Minimum ASCII Delete Sum for Two Strings; Number of Restricted Paths from First to Last Node | Medium; Medium | Completed |
+| 73–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -137,11 +138,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 71 / 100 |
+| Days Completed | 72 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 81 |
+| Medium Problems | 83 |
 | Hard Problems | 27 |
-| Total Problems Solved | 142 |
+| Total Problems Solved | 144 |
 
 ---
 
@@ -155,9 +156,9 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16, 68 |
-| Graphs | Days 17–20, 52–67, 70 |
+| Graphs | Days 17–20, 52–67, 70, 72 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68 |
-| String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–71 |
+| String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49, 71 |
