@@ -122,7 +122,8 @@ Each day's folder contains:
 | 71 | Palindrome Partitioning III; Candy | Hard; Hard | Completed |
 | 72 | Minimum ASCII Delete Sum for Two Strings; Number of Restricted Paths from First to Last Node | Medium; Medium | Completed |
 | 73 | Maximum Sum BST in Binary Tree; Shortest Path to Get All Keys | Hard; Hard | Completed |
-| 74–99 | — | — | Not Started |
+| 74 | Longest Increasing Path in a Matrix; Course Schedule III | Hard; Hard | Completed |
+| 75–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -139,11 +140,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 73 / 100 |
+| Days Completed | 74 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 83 |
-| Hard Problems | 29 |
-| Total Problems Solved | 146 |
+| Hard Problems | 31 |
+| Total Problems Solved | 148 |
 
 ---
 
@@ -157,13 +158,13 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16, 68, 73 |
-| Graphs | Days 17–20, 52–67, 70, 72–73 |
+| Graphs | Days 17–20, 52–67, 70, 72–74 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
-| Greedy Algorithms | Days 29–30, 41, 49, 71 |
-| Heaps / Priority Queue | Days 31–32, 50, 60 |
+| Greedy Algorithms | Days 29–30, 41, 49, 71, 74 |
+| Heaps / Priority Queue | Days 31–32, 50, 60, 74 |
 | Tries | Day 33 |
 | Backtracking | Days 34–36, 55 |
 | Bit Manipulation | Days 37–38 |
