@@ -123,7 +123,8 @@ Each day's folder contains:
 | 72 | Minimum ASCII Delete Sum for Two Strings; Number of Restricted Paths from First to Last Node | Medium; Medium | Completed |
 | 73 | Maximum Sum BST in Binary Tree; Shortest Path to Get All Keys | Hard; Hard | Completed |
 | 74 | Longest Increasing Path in a Matrix; Course Schedule III | Hard; Hard | Completed |
-| 75–99 | — | — | Not Started |
+| 75 | Maximum Score of a Good Subarray; Maximum Students Taking Exam | Hard; Hard | Completed |
+| 76–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -140,11 +141,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 74 / 100 |
+| Days Completed | 75 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 83 |
-| Hard Problems | 31 |
-| Total Problems Solved | 148 |
+| Hard Problems | 33 |
+| Total Problems Solved | 150 |
 
 ---
 
@@ -163,7 +164,7 @@ Each day's folder contains:
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72 |
 | Knapsack & Subset Sum DP | Day 27 |
 | Unbounded Knapsack DP | Day 28 |
-| Greedy Algorithms | Days 29–30, 41, 49, 71, 74 |
+| Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75 |
 | Heaps / Priority Queue | Days 31–32, 50, 60, 74 |
 | Tries | Day 33 |
 | Backtracking | Days 34–36, 55 |
@@ -172,7 +173,7 @@ Each day's folder contains:
 | Monotonic Stack | Days 43–44, 51 |
 | Interval DP | Days 57, 64, 68 |
 | Union Find | Days 20, 58 |
-| Bitmask DP | Day 69 |
+| Bitmask DP | Days 69, 75 |
 | Meet in the Middle | Day 69 |
 
 ---
