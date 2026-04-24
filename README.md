@@ -124,9 +124,8 @@ Each day's folder contains:
 | 73 | Maximum Sum BST in Binary Tree; Shortest Path to Get All Keys | Hard; Hard | Completed |
 | 74 | Longest Increasing Path in a Matrix; Course Schedule III | Hard; Hard | Completed |
 | 75 | Maximum Score of a Good Subarray; Maximum Students Taking Exam | Hard; Hard | Completed |
-| 76 | — | — | Not Started |
-| 77 | Count of Range Sum; Longest Path With Different Adjacent Characters | Hard; Medium | Completed |
-| 78–99 | — | — | Not Started |
+| 76 | Word Search II; Shortest Subarray with Sum at Least K | Hard; Hard | Completed |
+| 77–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -145,8 +144,8 @@ Each day's folder contains:
 |--------|------:|
 | Days Completed | 76 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 84 |
-| Hard Problems | 34 |
+| Medium Problems | 83 |
+| Hard Problems | 35 |
 | Total Problems Solved | 152 |
 
 ---
@@ -168,11 +167,11 @@ Each day's folder contains:
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75 |
 | Heaps / Priority Queue | Days 31–32, 50, 60, 74 |
-| Tries | Day 33 |
-| Backtracking | Days 34–36, 55 |
+| Tries | Days 33, 76 |
+| Backtracking | Days 34–36, 55, 76 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
-| Monotonic Stack | Days 43–44, 51 |
+| Monotonic Stack | Days 43–44, 51, 76 |
 | Interval DP | Days 57, 64, 68 |
 | Union Find | Days 20, 58 |
 | Bitmask DP | Days 69, 75 |
