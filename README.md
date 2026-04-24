@@ -125,7 +125,8 @@ Each day's folder contains:
 | 74 | Longest Increasing Path in a Matrix; Course Schedule III | Hard; Hard | Completed |
 | 75 | Maximum Score of a Good Subarray; Maximum Students Taking Exam | Hard; Hard | Completed |
 | 76 | Word Search II; Shortest Subarray with Sum at Least K | Hard; Hard | Completed |
-| 77–99 | — | — | Not Started |
+| 77 | Count of Range Sum; Longest Path With Different Adjacent Characters | Hard; Medium | Completed |
+| 78–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -142,11 +143,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 76 / 100 |
+| Days Completed | 77 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 83 |
-| Hard Problems | 35 |
-| Total Problems Solved | 152 |
+| Medium Problems | 84 |
+| Hard Problems | 36 |
+| Total Problems Solved | 154 |
 
 ---
 
