@@ -124,7 +124,9 @@ Each day's folder contains:
 | 73 | Maximum Sum BST in Binary Tree; Shortest Path to Get All Keys | Hard; Hard | Completed |
 | 74 | Longest Increasing Path in a Matrix; Course Schedule III | Hard; Hard | Completed |
 | 75 | Maximum Score of a Good Subarray; Maximum Students Taking Exam | Hard; Hard | Completed |
-| 76–99 | — | — | Not Started |
+| 76 | — | — | Not Started |
+| 77 | Count of Range Sum; Longest Path With Different Adjacent Characters | Hard; Medium | Completed |
+| 78–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -141,11 +143,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 75 / 100 |
+| Days Completed | 76 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 83 |
-| Hard Problems | 33 |
-| Total Problems Solved | 150 |
+| Medium Problems | 84 |
+| Hard Problems | 34 |
+| Total Problems Solved | 152 |
 
 ---
 
@@ -158,7 +160,7 @@ Each day's folder contains:
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
-| Binary Trees | Days 11–16, 68, 73 |
+| Binary Trees | Days 11–16, 68, 73, 77 |
 | Graphs | Days 17–20, 52–67, 70, 72–74 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72 |
@@ -175,6 +177,7 @@ Each day's folder contains:
 | Union Find | Days 20, 58 |
 | Bitmask DP | Days 69, 75 |
 | Meet in the Middle | Day 69 |
+| Divide & Conquer | Day 77 |
 
 ---
 
