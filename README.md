@@ -127,7 +127,8 @@ Each day's folder contains:
 | 76 | Word Search II; Shortest Subarray with Sum at Least K | Hard; Hard | Completed |
 | 77 | Count of Range Sum; Longest Path With Different Adjacent Characters | Hard; Medium | Completed |
 | 78 | Range Sum Query – Mutable; Minimum Cost to Reach Destination in Time | Medium; Hard | Completed |
-| 79–99 | — | — | Not Started |
+| 79 | Range Module; Minimum Cost to Connect Two Groups of Points | Hard; Hard | Completed |
+| 80–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -144,11 +145,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 78 / 100 |
+| Days Completed | 79 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 85 |
-| Hard Problems | 37 |
-| Total Problems Solved | 156 |
+| Hard Problems | 39 |
+| Total Problems Solved | 158 |
 
 ---
 
@@ -176,10 +177,10 @@ Each day's folder contains:
 | Monotonic Stack | Days 43–44, 51, 76 |
 | Interval DP | Days 57, 64, 68 |
 | Union Find | Days 20, 58 |
-| Bitmask DP | Days 69, 75 |
+| Bitmask DP | Days 69, 75, 79 |
 | Meet in the Middle | Day 69 |
 | Divide & Conquer | Day 77 |
-| Fenwick Tree / Segment Tree | Day 78 |
+| Fenwick Tree / Segment Tree | Days 78–79 |
 
 ---
 
