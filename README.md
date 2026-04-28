@@ -129,7 +129,8 @@ Each day's folder contains:
 | 78 | Range Sum Query – Mutable; Minimum Cost to Reach Destination in Time | Medium; Hard | Completed |
 | 79 | Range Module; Minimum Cost to Connect Two Groups of Points | Hard; Hard | Completed |
 | 80 | Minimum Cost Tree From Leaf Values; Bus Routes | Medium; Hard | Completed |
-| 81–99 | — | — | Not Started |
+| 81 | Tallest Billboard; Shortest Path in a Grid with Obstacles Elimination | Hard; Hard | Completed |
+| 82–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -146,11 +147,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 80 / 100 |
+| Days Completed | 81 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 86 |
-| Hard Problems | 40 |
-| Total Problems Solved | 160 |
+| Hard Problems | 42 |
+| Total Problems Solved | 162 |
 
 ---
 
@@ -164,10 +165,10 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16, 68, 73, 77 |
-| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80 |
+| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–81 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72 |
-| Knapsack & Subset Sum DP | Day 27 |
+| Knapsack & Subset Sum DP | Days 27, 81 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75, 80 |
 | Heaps / Priority Queue | Days 31–32, 50, 60, 74 |
