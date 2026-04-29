@@ -130,7 +130,8 @@ Each day's folder contains:
 | 79 | Range Module; Minimum Cost to Connect Two Groups of Points | Hard; Hard | Completed |
 | 80 | Minimum Cost Tree From Leaf Values; Bus Routes | Medium; Hard | Completed |
 | 81 | Tallest Billboard; Shortest Path in a Grid with Obstacles Elimination | Hard; Hard | Completed |
-| 82–99 | — | — | Not Started |
+| 82 | Strange Printer; Parallel Courses III | Hard; Hard | Completed |
+| 83–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -147,11 +148,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 81 / 100 |
+| Days Completed | 82 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 86 |
-| Hard Problems | 42 |
-| Total Problems Solved | 162 |
+| Hard Problems | 44 |
+| Total Problems Solved | 164 |
 
 ---
 
@@ -165,7 +166,7 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16, 68, 73, 77 |
-| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–81 |
+| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
@@ -177,7 +178,7 @@ Each day's folder contains:
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
 | Monotonic Stack | Days 43–44, 51, 76, 80 |
-| Interval DP | Days 57, 64, 68 |
+| Interval DP | Days 57, 64, 68, 82 |
 | Union Find | Days 20, 58 |
 | Bitmask DP | Days 69, 75, 79 |
 | Meet in the Middle | Day 69 |
