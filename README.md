@@ -132,7 +132,8 @@ Each day's folder contains:
 | 81 | Tallest Billboard; Shortest Path in a Grid with Obstacles Elimination | Hard; Hard | Completed |
 | 82 | Strange Printer; Parallel Courses III | Hard; Hard | Completed |
 | 83 | Number of Longest Increasing Subsequence; Minimum Number of Refueling Stops | Medium; Hard | Completed |
-| 84–99 | — | — | Not Started |
+| 84 | Cherry Pickup II; Word Ladder | Hard; Hard | Completed |
+| 85–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -149,11 +150,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 83 / 100 |
+| Days Completed | 84 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 87 |
-| Hard Problems | 45 |
-| Total Problems Solved | 166 |
+| Hard Problems | 47 |
+| Total Problems Solved | 168 |
 
 ---
 
@@ -167,8 +168,8 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49 |
 | Binary Trees | Days 11–16, 68, 73, 77 |
-| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83 |
+| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
 | Unbounded Knapsack DP | Day 28 |
