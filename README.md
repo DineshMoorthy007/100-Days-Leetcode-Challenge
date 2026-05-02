@@ -133,7 +133,8 @@ Each day's folder contains:
 | 82 | Strange Printer; Parallel Courses III | Hard; Hard | Completed |
 | 83 | Number of Longest Increasing Subsequence; Minimum Number of Refueling Stops | Medium; Hard | Completed |
 | 84 | Cherry Pickup II; Word Ladder | Hard; Hard | Completed |
-| 85–99 | — | — | Not Started |
+| 85 | Stone Game III; Partition Array for Maximum Sum | Hard; Medium | Completed |
+| 86–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -150,11 +151,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 84 / 100 |
+| Days Completed | 85 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 87 |
-| Hard Problems | 47 |
-| Total Problems Solved | 168 |
+| Medium Problems | 88 |
+| Hard Problems | 48 |
+| Total Problems Solved | 170 |
 
 ---
 
@@ -186,6 +187,8 @@ Each day's folder contains:
 | Meet in the Middle | Day 69 |
 | Divide & Conquer | Day 77 |
 | Fenwick Tree / Segment Tree | Days 78–79 |
+| Game Theory DP | Day 85 |
+| Partition DP | Day 85 |
 
 ---
 
