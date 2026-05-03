@@ -134,7 +134,8 @@ Each day's folder contains:
 | 83 | Number of Longest Increasing Subsequence; Minimum Number of Refueling Stops | Medium; Hard | Completed |
 | 84 | Cherry Pickup II; Word Ladder | Hard; Hard | Completed |
 | 85 | Stone Game III; Partition Array for Maximum Sum | Hard; Medium | Completed |
-| 86–99 | — | — | Not Started |
+| 86 | Number of Ways to Form a Target String Given a Dictionary; Minimum Insertion Steps to Make a String Palindrome | Hard; Hard | Completed |
+| 87–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -151,11 +152,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 85 / 100 |
+| Days Completed | 86 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 88 |
-| Hard Problems | 48 |
-| Total Problems Solved | 170 |
+| Hard Problems | 50 |
+| Total Problems Solved | 172 |
 
 ---
 
@@ -171,7 +172,7 @@ Each day's folder contains:
 | Binary Trees | Days 11–16, 68, 73, 77 |
 | Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84 |
-| String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72 |
+| String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72, 86 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
 | Unbounded Knapsack DP | Day 28 |
 | Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75, 80, 83 |
@@ -189,6 +190,7 @@ Each day's folder contains:
 | Fenwick Tree / Segment Tree | Days 78–79 |
 | Game Theory DP | Day 85 |
 | Partition DP | Day 85 |
+| Combinatorics DP | Day 86 |
 
 ---
 
