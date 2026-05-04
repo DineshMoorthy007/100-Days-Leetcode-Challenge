@@ -135,7 +135,8 @@ Each day's folder contains:
 | 84 | Cherry Pickup II; Word Ladder | Hard; Hard | Completed |
 | 85 | Stone Game III; Partition Array for Maximum Sum | Hard; Medium | Completed |
 | 86 | Number of Ways to Form a Target String Given a Dictionary; Minimum Insertion Steps to Make a String Palindrome | Hard; Hard | Completed |
-| 87–99 | — | — | Not Started |
+| 87 | Predict the Winner; Maximum Running Time of N Computers | Medium; Hard | Completed |
+| 88–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -152,11 +153,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 86 / 100 |
+| Days Completed | 87 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 88 |
-| Hard Problems | 50 |
-| Total Problems Solved | 172 |
+| Medium Problems | 89 |
+| Hard Problems | 51 |
+| Total Problems Solved | 174 |
 
 ---
 
@@ -168,7 +169,7 @@ Each day's folder contains:
 | Two Pointers & Sliding Window | Days 3, 40, 42 |
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7, 45–46 |
-| Binary Search | Days 8–10, 47–49 |
+| Binary Search | Days 8–10, 47–49, 87 |
 | Binary Trees | Days 11–16, 68, 73, 77 |
 | Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84 |
@@ -188,7 +189,7 @@ Each day's folder contains:
 | Meet in the Middle | Day 69 |
 | Divide & Conquer | Day 77 |
 | Fenwick Tree / Segment Tree | Days 78–79 |
-| Game Theory DP | Day 85 |
+| Game Theory DP | Days 85, 87 |
 | Partition DP | Day 85 |
 | Combinatorics DP | Day 86 |
 
