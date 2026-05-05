@@ -136,7 +136,8 @@ Each day's folder contains:
 | 85 | Stone Game III; Partition Array for Maximum Sum | Hard; Medium | Completed |
 | 86 | Number of Ways to Form a Target String Given a Dictionary; Minimum Insertion Steps to Make a String Palindrome | Hard; Hard | Completed |
 | 87 | Predict the Winner; Maximum Running Time of N Computers | Medium; Hard | Completed |
-| 88–99 | — | — | Not Started |
+| 88 | Minimum XOR Sum of Two Arrays; Maximum Score Words Formed by Letters | Hard; Hard | Completed |
+| 89–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -153,11 +154,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 87 / 100 |
+| Days Completed | 88 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 89 |
-| Hard Problems | 51 |
-| Total Problems Solved | 174 |
+| Hard Problems | 53 |
+| Total Problems Solved | 176 |
 
 ---
 
@@ -179,13 +180,13 @@ Each day's folder contains:
 | Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75, 80, 83 |
 | Heaps / Priority Queue | Days 31–32, 50, 60, 74, 83 |
 | Tries | Days 33, 76 |
-| Backtracking | Days 34–36, 55, 76 |
+| Backtracking | Days 34–36, 55, 76, 88 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
 | Monotonic Stack | Days 43–44, 51, 76, 80 |
 | Interval DP | Days 57, 64, 68, 82 |
 | Union Find | Days 20, 58 |
-| Bitmask DP | Days 69, 75, 79 |
+| Bitmask DP | Days 69, 75, 79, 88 |
 | Meet in the Middle | Day 69 |
 | Divide & Conquer | Day 77 |
 | Fenwick Tree / Segment Tree | Days 78–79 |
