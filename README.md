@@ -137,7 +137,8 @@ Each day's folder contains:
 | 86 | Number of Ways to Form a Target String Given a Dictionary; Minimum Insertion Steps to Make a String Palindrome | Hard; Hard | Completed |
 | 87 | Predict the Winner; Maximum Running Time of N Computers | Medium; Hard | Completed |
 | 88 | Minimum XOR Sum of Two Arrays; Maximum Score Words Formed by Letters | Hard; Hard | Completed |
-| 89–99 | — | — | Not Started |
+| 89 | Maximum Score of Spliced Array; Sum of Distances in Tree | Medium; Hard | Completed |
+| 90–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -154,11 +155,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 88 / 100 |
+| Days Completed | 89 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 89 |
-| Hard Problems | 53 |
-| Total Problems Solved | 176 |
+| Medium Problems | 90 |
+| Hard Problems | 54 |
+| Total Problems Solved | 178 |
 
 ---
 
@@ -193,6 +194,8 @@ Each day's folder contains:
 | Game Theory DP | Days 85, 87 |
 | Partition DP | Day 85 |
 | Combinatorics DP | Day 86 |
+| Rerooting DP | Day 89 |
+| Kadane's Algorithm | Day 89 |
 
 ---
 
