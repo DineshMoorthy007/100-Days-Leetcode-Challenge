@@ -138,7 +138,8 @@ Each day's folder contains:
 | 87 | Predict the Winner; Maximum Running Time of N Computers | Medium; Hard | Completed |
 | 88 | Minimum XOR Sum of Two Arrays; Maximum Score Words Formed by Letters | Hard; Hard | Completed |
 | 89 | Maximum Score of Spliced Array; Sum of Distances in Tree | Medium; Hard | Completed |
-| 90–99 | — | — | Not Started |
+| 90 | Minimum Cost to Cut a Stick; Count Ways to Build Rooms in an Ant Colony | Hard; Hard | Completed |
+| 91–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -155,11 +156,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 89 / 100 |
+| Days Completed | 90 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 90 |
-| Hard Problems | 54 |
-| Total Problems Solved | 178 |
+| Hard Problems | 56 |
+| Total Problems Solved | 180 |
 
 ---
 
@@ -185,7 +186,7 @@ Each day's folder contains:
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
 | Monotonic Stack | Days 43–44, 51, 76, 80 |
-| Interval DP | Days 57, 64, 68, 82 |
+| Interval DP | Days 57, 64, 68, 82, 90 |
 | Union Find | Days 20, 58 |
 | Bitmask DP | Days 69, 75, 79, 88 |
 | Meet in the Middle | Day 69 |
@@ -193,7 +194,7 @@ Each day's folder contains:
 | Fenwick Tree / Segment Tree | Days 78–79 |
 | Game Theory DP | Days 85, 87 |
 | Partition DP | Day 85 |
-| Combinatorics DP | Day 86 |
+| Combinatorics DP | Days 86, 90 |
 | Rerooting DP | Day 89 |
 | Kadane's Algorithm | Day 89 |
 
