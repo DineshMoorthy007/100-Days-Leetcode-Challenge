@@ -139,7 +139,8 @@ Each day's folder contains:
 | 88 | Minimum XOR Sum of Two Arrays; Maximum Score Words Formed by Letters | Hard; Hard | Completed |
 | 89 | Maximum Score of Spliced Array; Sum of Distances in Tree | Medium; Hard | Completed |
 | 90 | Minimum Cost to Cut a Stick; Count Ways to Build Rooms in an Ant Colony | Hard; Hard | Completed |
-| 91–99 | — | — | Not Started |
+| 91 | Minimum Number of Days to Eat N Oranges; Paint House III | Hard; Hard | Completed |
+| 92–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -156,11 +157,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 90 / 100 |
+| Days Completed | 91 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 90 |
-| Hard Problems | 56 |
-| Total Problems Solved | 180 |
+| Hard Problems | 58 |
+| Total Problems Solved | 182 |
 
 ---
 
@@ -175,7 +176,7 @@ Each day's folder contains:
 | Binary Search | Days 8–10, 47–49, 87 |
 | Binary Trees | Days 11–16, 68, 73, 77 |
 | Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72, 86 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
 | Unbounded Knapsack DP | Day 28 |
