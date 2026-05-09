@@ -140,7 +140,8 @@ Each day's folder contains:
 | 89 | Maximum Score of Spliced Array; Sum of Distances in Tree | Medium; Hard | Completed |
 | 90 | Minimum Cost to Cut a Stick; Count Ways to Build Rooms in an Ant Colony | Hard; Hard | Completed |
 | 91 | Minimum Number of Days to Eat N Oranges; Paint House III | Hard; Hard | Completed |
-| 92–99 | — | — | Not Started |
+| 92 | Minimum Genetic Mutation; Constrained Subsequence Sum | Medium; Hard | Completed |
+| 93–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -157,11 +158,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 91 / 100 |
+| Days Completed | 92 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 90 |
-| Hard Problems | 58 |
-| Total Problems Solved | 182 |
+| Medium Problems | 91 |
+| Hard Problems | 59 |
+| Total Problems Solved | 184 |
 
 ---
 
@@ -175,7 +176,7 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49, 87 |
 | Binary Trees | Days 11–16, 68, 73, 77 |
-| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84 |
+| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84, 92 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72, 86 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
@@ -186,7 +187,7 @@ Each day's folder contains:
 | Backtracking | Days 34–36, 55, 76, 88 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
-| Monotonic Stack | Days 43–44, 51, 76, 80 |
+| Monotonic Stack | Days 43–44, 51, 76, 80, 92 |
 | Interval DP | Days 57, 64, 68, 82, 90 |
 | Union Find | Days 20, 58 |
 | Bitmask DP | Days 69, 75, 79, 88 |
