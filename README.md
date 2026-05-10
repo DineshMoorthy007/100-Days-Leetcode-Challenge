@@ -141,7 +141,8 @@ Each day's folder contains:
 | 90 | Minimum Cost to Cut a Stick; Count Ways to Build Rooms in an Ant Colony | Hard; Hard | Completed |
 | 91 | Minimum Number of Days to Eat N Oranges; Paint House III | Hard; Hard | Completed |
 | 92 | Minimum Genetic Mutation; Constrained Subsequence Sum | Medium; Hard | Completed |
-| 93–99 | — | — | Not Started |
+| 93 | House Robber III; Furthest Building You Can Reach | Medium; Medium | Completed |
+| 94–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -158,11 +159,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 92 / 100 |
+| Days Completed | 93 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 91 |
+| Medium Problems | 93 |
 | Hard Problems | 59 |
-| Total Problems Solved | 184 |
+| Total Problems Solved | 186 |
 
 ---
 
@@ -175,14 +176,14 @@ Each day's folder contains:
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49, 87 |
-| Binary Trees | Days 11–16, 68, 73, 77 |
+| Binary Trees | Days 11–16, 68, 73, 77, 93 |
 | Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84, 92 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91, 93 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72, 86 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
 | Unbounded Knapsack DP | Day 28 |
-| Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75, 80, 83 |
-| Heaps / Priority Queue | Days 31–32, 50, 60, 74, 83 |
+| Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75, 80, 83, 93 |
+| Heaps / Priority Queue | Days 31–32, 50, 60, 74, 83, 93 |
 | Tries | Days 33, 76 |
 | Backtracking | Days 34–36, 55, 76, 88 |
 | Bit Manipulation | Days 37–38 |
