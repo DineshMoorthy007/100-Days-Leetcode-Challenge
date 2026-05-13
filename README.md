@@ -144,7 +144,8 @@ Each day's folder contains:
 | 93 | House Robber III; Furthest Building You Can Reach | Medium; Medium | Completed |
 | 94 | Delete and Earn; Minimum Cost to Hire K Workers | Medium; Hard | Completed |
 | 95 | IPO; Queue Reconstruction by Height | Hard; Medium | Completed |
-| 96–99 | — | — | Not Started |
+| 96 | Reconstruct Itinerary; Word Ladder II | Hard; Hard | Completed |
+| 97–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -161,11 +162,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 95 / 100 |
+| Days Completed | 96 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 95 |
-| Hard Problems | 61 |
-| Total Problems Solved | 190 |
+| Hard Problems | 63 |
+| Total Problems Solved | 192 |
 
 ---
 
@@ -179,7 +180,7 @@ Each day's folder contains:
 | Stacks & Queues | Days 6–7, 45–46 |
 | Binary Search | Days 8–10, 47–49, 87 |
 | Binary Trees | Days 11–16, 68, 73, 77, 93 |
-| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84, 92 |
+| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84, 92, 96 |
 | Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91, 93–94 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72, 86 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
@@ -187,7 +188,7 @@ Each day's folder contains:
 | Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75, 80, 83, 93–95 |
 | Heaps / Priority Queue | Days 31–32, 50, 60, 74, 83, 93–95 |
 | Tries | Days 33, 76 |
-| Backtracking | Days 34–36, 55, 76, 88 |
+| Backtracking | Days 34–36, 55, 76, 88, 96 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
 | Monotonic Stack | Days 43–44, 51, 76, 80, 92 |
