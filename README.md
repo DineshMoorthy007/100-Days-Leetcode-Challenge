@@ -145,7 +145,8 @@ Each day's folder contains:
 | 94 | Delete and Earn; Minimum Cost to Hire K Workers | Medium; Hard | Completed |
 | 95 | IPO; Queue Reconstruction by Height | Hard; Medium | Completed |
 | 96 | Reconstruct Itinerary; Word Ladder II | Hard; Hard | Completed |
-| 97–99 | — | — | Not Started |
+| 97 | Number of Good Paths; Remove K Digits | Hard; Medium | Completed |
+| 98–99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -162,11 +163,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 96 / 100 |
+| Days Completed | 97 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 95 |
-| Hard Problems | 63 |
-| Total Problems Solved | 192 |
+| Medium Problems | 96 |
+| Hard Problems | 64 |
+| Total Problems Solved | 194 |
 
 ---
 
@@ -185,15 +186,15 @@ Each day's folder contains:
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72, 86 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
 | Unbounded Knapsack DP | Day 28 |
-| Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75, 80, 83, 93–95 |
+| Greedy Algorithms | Days 29–30, 41, 49, 71, 74–75, 80, 83, 93–95, 97 |
 | Heaps / Priority Queue | Days 31–32, 50, 60, 74, 83, 93–95 |
 | Tries | Days 33, 76 |
 | Backtracking | Days 34–36, 55, 76, 88, 96 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
-| Monotonic Stack | Days 43–44, 51, 76, 80, 92 |
+| Monotonic Stack | Days 43–44, 51, 76, 80, 92, 97 |
 | Interval DP | Days 57, 64, 68, 82, 90 |
-| Union Find | Days 20, 58 |
+| Union Find | Days 20, 58, 97 |
 | Bitmask DP | Days 69, 75, 79, 88 |
 | Meet in the Middle | Day 69 |
 | Divide & Conquer | Day 77 |
