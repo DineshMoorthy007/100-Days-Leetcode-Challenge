@@ -146,7 +146,8 @@ Each day's folder contains:
 | 95 | IPO; Queue Reconstruction by Height | Hard; Medium | Completed |
 | 96 | Reconstruct Itinerary; Word Ladder II | Hard; Hard | Completed |
 | 97 | Number of Good Paths; Remove K Digits | Hard; Medium | Completed |
-| 98–99 | — | — | Not Started |
+| 98 | Russian Doll Envelopes; Maximum Width Ramp | Hard; Medium | Completed |
+| 99 | — | — | Not Started |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -163,11 +164,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 97 / 100 |
+| Days Completed | 98 / 100 |
 | Easy Problems | 34 |
-| Medium Problems | 96 |
-| Hard Problems | 64 |
-| Total Problems Solved | 194 |
+| Medium Problems | 97 |
+| Hard Problems | 65 |
+| Total Problems Solved | 196 |
 
 ---
 
@@ -182,7 +183,7 @@ Each day's folder contains:
 | Binary Search | Days 8–10, 47–49, 87 |
 | Binary Trees | Days 11–16, 68, 73, 77, 93 |
 | Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84, 92, 96 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91, 93–94 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91, 93–94, 98 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72, 86 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
 | Unbounded Knapsack DP | Day 28 |
@@ -192,7 +193,7 @@ Each day's folder contains:
 | Backtracking | Days 34–36, 55, 76, 88, 96 |
 | Bit Manipulation | Days 37–38 |
 | Math & Number Theory | Day 39 |
-| Monotonic Stack | Days 43–44, 51, 76, 80, 92, 97 |
+| Monotonic Stack | Days 43–44, 51, 76, 80, 92, 97–98 |
 | Interval DP | Days 57, 64, 68, 82, 90 |
 | Union Find | Days 20, 58, 97 |
 | Bitmask DP | Days 69, 75, 79, 88 |
