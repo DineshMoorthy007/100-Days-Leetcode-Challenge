@@ -147,7 +147,7 @@ Each day's folder contains:
 | 96 | Reconstruct Itinerary; Word Ladder II | Hard; Hard | Completed |
 | 97 | Number of Good Paths; Remove K Digits | Hard; Medium | Completed |
 | 98 | Russian Doll Envelopes; Maximum Width Ramp | Hard; Medium | Completed |
-| 99 | — | — | Not Started |
+| 99 | Maximum Profit in Job Scheduling; Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Hard; Hard | Completed |
 | 100 | TBD | — | Not Started |
 
 **Legend**
@@ -164,11 +164,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 98 / 100 |
+| Days Completed | 99 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 97 |
-| Hard Problems | 65 |
-| Total Problems Solved | 196 |
+| Hard Problems | 67 |
+| Total Problems Solved | 198 |
 
 ---
 
@@ -180,10 +180,10 @@ Each day's folder contains:
 | Two Pointers & Sliding Window | Days 3, 40, 42 |
 | Linked Lists | Days 4–5 |
 | Stacks & Queues | Days 6–7, 45–46 |
-| Binary Search | Days 8–10, 47–49, 87 |
+| Binary Search | Days 8–10, 47–49, 87, 99 |
 | Binary Trees | Days 11–16, 68, 73, 77, 93 |
-| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84, 92, 96 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91, 93–94, 98 |
+| Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84, 92, 96, 99 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91, 93–94, 98–99 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72, 86 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
 | Unbounded Knapsack DP | Day 28 |
@@ -195,7 +195,7 @@ Each day's folder contains:
 | Math & Number Theory | Day 39 |
 | Monotonic Stack | Days 43–44, 51, 76, 80, 92, 97–98 |
 | Interval DP | Days 57, 64, 68, 82, 90 |
-| Union Find | Days 20, 58, 97 |
+| Union Find | Days 20, 58, 97, 99 |
 | Bitmask DP | Days 69, 75, 79, 88 |
 | Meet in the Middle | Day 69 |
 | Divide & Conquer | Day 77 |
