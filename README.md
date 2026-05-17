@@ -148,7 +148,7 @@ Each day's folder contains:
 | 97 | Number of Good Paths; Remove K Digits | Hard; Medium | Completed |
 | 98 | Russian Doll Envelopes; Maximum Width Ramp | Hard; Medium | Completed |
 | 99 | Maximum Profit in Job Scheduling; Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Hard; Hard | Completed |
-| 100 | TBD | — | Not Started |
+| 100 | Super Egg Drop; Freedom Trail | Hard; Hard | Completed |
 
 **Legend**
 
@@ -164,11 +164,11 @@ Each day's folder contains:
 
 | Metric | Count |
 |--------|------:|
-| Days Completed | 99 / 100 |
+| Days Completed | 100 / 100 |
 | Easy Problems | 34 |
 | Medium Problems | 97 |
-| Hard Problems | 67 |
-| Total Problems Solved | 198 |
+| Hard Problems | 69 |
+| Total Problems Solved | 200 |
 
 ---
 
@@ -183,7 +183,7 @@ Each day's folder contains:
 | Binary Search | Days 8–10, 47–49, 87, 99 |
 | Binary Trees | Days 11–16, 68, 73, 77, 93 |
 | Graphs | Days 17–20, 52–67, 70, 72–74, 78, 80–82, 84, 92, 96, 99 |
-| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91, 93–94, 98–99 |
+| Dynamic Programming (1D & 2D) | Days 21–24, 52, 58–60, 62, 65–68, 83–84, 91, 93–94, 98–100 |
 | String Dynamic Programming | Days 25–26, 53–56, 61, 63, 70–72, 86 |
 | Knapsack & Subset Sum DP | Days 27, 81 |
 | Unbounded Knapsack DP | Day 28 |
@@ -210,7 +210,7 @@ Each day's folder contains:
 
 ## Goals
 
-- [ ] Complete 100 days consecutively
+- [x] Complete 100 days consecutively
 - [ ] Master common data structures (Arrays, Linked Lists, Trees, Graphs)
 - [ ] Master common algorithms (Sorting, Searching, Dynamic Programming)
 - [ ] Solve at least 20 Hard problems
@@ -225,7 +225,7 @@ Each day's folder contains:
 | Solve 50+ problems | Achieved |
 | Reach 50 days | Achieved |
 | Solve 100+ problems | Achieved |
-| Complete the 100-day challenge | Pending |
+| Complete the 100-day challenge | Achieved |
 
 ---
 
