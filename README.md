@@ -4,6 +4,23 @@ A structured, day-by-day approach to solving LeetCode problems over 100 consecut
 
 ---
 
+## Table of Contents
+
+1. [Challenge Overview](#challenge-overview)
+2. [Rules](#rules)
+3. [Repository Structure](#repository-structure)
+4. [Progress Tracking](#progress-tracking)
+5. [Statistics](#statistics)
+6. [Topics Covered](#topics-covered)
+7. [Extras](#extras)
+8. [Goals & Milestones](#goals--milestones)
+9. [Challenge Completion Summary](#challenge-completion-summary)
+10. [Learning Resources](#learning-resources)
+11. [Contributing](#contributing)
+12. [License](#license)
+
+---
+
 ## Challenge Overview
 
 **Goal:** Solve at least one LeetCode problem every day for 100 consecutive days.
@@ -36,12 +53,18 @@ A structured, day-by-day approach to solving LeetCode problems over 100 consecut
 ├── ...
 ├── Day-099/         # Day 99 solutions
 ├── Day-100/         # Day 100 solutions
-└── README.md        # This file
+├── Extras/          # Additional problems and resources
+└── README.md        # This file (main documentation)
 ```
 
 Each day's folder contains:
 - Solution file(s) in Python
-- `Readme.md` with problem details and explanation
+- `README.md` with problem details and explanation
+
+The Extras folder contains:
+- Supplementary LeetCode problems and solutions
+- Additional practice problems outside the main 100-day sequence
+- Resources and reference implementations
 
 ---
 
@@ -208,7 +231,21 @@ Each day's folder contains:
 
 ---
 
-## Goals
+## Extras
+
+The **Extras** folder contains supplementary problems and resources beyond the main 100-day challenge:
+
+- **Additional Practice Problems** — Extra LeetCode problems for deeper practice in specific topics
+- **Reference Implementations** — Optimized solutions and alternative approaches
+- **Learning Resources** — Code templates, problem-solving patterns, and algorithm implementations
+
+This folder serves as a resource pool for revisiting topics, exploring new variations of problems, or diving deeper into specific algorithms and data structures covered in the main challenge.
+
+---
+
+## Goals & Milestones
+
+### Goals
 
 - [x] Complete 100 days consecutively
 - [ ] Master common data structures (Arrays, Linked Lists, Trees, Graphs)
@@ -229,11 +266,33 @@ Each day's folder contains:
 
 ---
 
+## Challenge Completion Summary
+
+✅ **Challenge Status: Complete**
+
+This repository documents a successful completion of the 100-day LeetCode challenge. Over 100 consecutive days, **200+ problems** were solved across **30+ fundamental topics**, ranging from basic data structures to advanced algorithms.
+
+**Key Achievements:**
+- 🎯 100% challenge completion rate (100/100 days)
+- 📚 Solved 200+ LeetCode problems  
+- 🏆 Covered 30+ problem-solving topics and algorithms
+- 🧠 Deep understanding of data structures and algorithms
+- 📝 Well-documented solutions with complexity analysis
+
+---
+
 ## Learning Resources
 
-- [LeetCode](https://leetcode.com/)
-- [NeetCode](https://neetcode.io/)
-- [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
+### Recommended Platforms
+- [LeetCode](https://leetcode.com/) - Main platform for problem-solving
+- [NeetCode](https://neetcode.io/) - Video explanations and curated problem sets
+- [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/) - Problem classification by patterns
+
+### Study Materials
+- Problem-solving patterns and techniques
+- Complexity analysis and optimization strategies
+- Data structure implementations and use cases
+- Algorithm design paradigms
 
 ---
 
